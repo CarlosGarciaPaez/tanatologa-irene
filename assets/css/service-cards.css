@@ -1,0 +1,248 @@
+/*Cambiar id para que sean todos iguales*/
+
+/*Card terapia infantil*/
+.ugb-84bf2f2 .ugb-card__title,
+.ugb-84bf2f2 .ugb-card__subtitle,
+.ugb-84bf2f2 .ugb-card__description,
+.ugb-84bf2f2 .ugb-button-container {
+    text-align: center
+}
+
+.ugb-84bf2f2 .ugb-card__item1 .ugb-card__image {
+    background-image: url(../images/terapia-infantil.jpg)
+}
+
+.ugb-84bf2f2 .ugb-card__image {
+    height: 180px !important
+}
+
+.ugb-84bf2f2 .ugb-button {
+    background-color: var(--nv-primary-accent)
+}
+
+.ugb-84bf2f2 .ugb-button .ugb-button--inner,
+.ugb-84bf2f2 .ugb-button svg:not(.ugb-custom-icon) {
+    color: var(--nv-text-dark-bg) !important
+}
+
+.ugb-84bf2f2 .ugb-inner-block {
+    text-align: center
+}
+
+.ugb-84bf2f2.ugb-card>.ugb-inner-block {
+    max-width: 300px !important
+}
+
+@media screen and (min-width:768px) {
+    .ugb-84bf2f2.ugb-card {
+        margin-bottom: 0px !important
+    }
+}
+
+/*Card terapia adolescentes*/
+.ugb-888d9b1 .ugb-card__title,
+.ugb-888d9b1 .ugb-card__subtitle,
+.ugb-888d9b1 .ugb-card__description,
+.ugb-888d9b1 .ugb-button-container {
+    text-align: center
+}
+
+.ugb-888d9b1 .ugb-card__item1 .ugb-card__image {
+    background-image: url(../images/terapia-adolescentes.jpg)
+}
+
+.ugb-888d9b1 .ugb-card__image {
+    height: 180px !important
+}
+
+.ugb-888d9b1 .ugb-button {
+    background-color: var(--nv-primary-accent)
+}
+
+.ugb-888d9b1 .ugb-button .ugb-button--inner,
+.ugb-888d9b1 .ugb-button svg:not(.ugb-custom-icon) {
+    color: var(--nv-text-dark-bg) !important
+}
+
+.ugb-888d9b1 .ugb-inner-block {
+    text-align: center
+}
+
+.ugb-888d9b1.ugb-card>.ugb-inner-block {
+    max-width: 300px !important
+}
+
+@media screen and (min-width:768px) {
+    .ugb-888d9b1.ugb-card {
+        margin-bottom: 0px !important
+    }
+}
+
+/*Card terapia adultos*/
+.ugb-02a1c11 .ugb-card__title,
+.ugb-02a1c11 .ugb-card__subtitle,
+.ugb-02a1c11 .ugb-card__description,
+.ugb-02a1c11 .ugb-button-container {
+    text-align: center
+}
+
+.ugb-02a1c11 .ugb-card__item1 .ugb-card__image {
+    background-image: url(../images/terapia-adultos.jpg)
+}
+
+.ugb-02a1c11 .ugb-card__image {
+    height: 180px !important
+}
+
+.ugb-02a1c11 .ugb-button {
+    background-color: var(--nv-primary-accent)
+}
+
+.ugb-02a1c11 .ugb-button .ugb-button--inner,
+.ugb-02a1c11 .ugb-button svg:not(.ugb-custom-icon) {
+    color: var(--nv-text-dark-bg) !important
+}
+
+.ugb-02a1c11 .ugb-inner-block {
+    text-align: center
+}
+
+.ugb-02a1c11.ugb-card>.ugb-inner-block {
+    max-width: 300px !important
+}
+
+@media screen and (min-width:768px) {
+    .ugb-02a1c11.ugb-card {
+        margin-bottom: 0px !important
+    }
+}
+
+/*Card terapia pareja*/
+.ugb-798966f .ugb-card__title,
+.ugb-798966f .ugb-card__subtitle,
+.ugb-798966f .ugb-card__description,
+.ugb-798966f .ugb-button-container {
+    text-align: center
+}
+
+.ugb-798966f .ugb-card__item1 .ugb-card__image {
+    background-image: url(../images/terapia-pareja.jpg)
+}
+
+.ugb-798966f .ugb-card__image {
+    height: 180px !important
+}
+
+.ugb-798966f .ugb-button {
+    background-color: var(--nv-primary-accent)
+}
+
+.ugb-798966f .ugb-button .ugb-button--inner,
+.ugb-798966f .ugb-button svg:not(.ugb-custom-icon) {
+    color: var(--nv-text-dark-bg) !important
+}
+
+.ugb-798966f .ugb-inner-block {
+    text-align: center
+}
+
+.ugb-798966f.ugb-card>.ugb-inner-block {
+    max-width: 300px !important
+}
+
+@media screen and (min-width:768px) {
+    .ugb-798966f.ugb-card {
+        margin-bottom: 0px !important
+    }
+}
+
+/*Card terapia online*/
+.ugb-1d6d71e .ugb-card__title,
+.ugb-1d6d71e .ugb-card__subtitle,
+.ugb-1d6d71e .ugb-card__description,
+.ugb-1d6d71e .ugb-button-container {
+    text-align: center
+}
+
+.ugb-1d6d71e .ugb-card__item1 .ugb-card__image {
+    background-image: url(../images/terapia-online.jpg)
+}
+
+.ugb-1d6d71e .ugb-card__image {
+    height: 180px !important
+}
+
+.ugb-1d6d71e .ugb-button {
+    background-color: var(--nv-primary-accent)
+}
+
+.ugb-1d6d71e .ugb-button .ugb-button--inner,
+.ugb-1d6d71e .ugb-button svg:not(.ugb-custom-icon) {
+    color: var(--nv-text-dark-bg) !important
+}
+
+.ugb-1d6d71e .ugb-inner-block {
+    text-align: center
+}
+
+.ugb-1d6d71e.ugb-card>.ugb-inner-block {
+    max-width: 300px !important
+}
+
+@media screen and (min-width:768px) {
+    .ugb-1d6d71e.ugb-card {
+        margin-bottom: 0px !important
+    }
+}
+
+
+@media screen and (min-width:768px) {
+    .ugb-910af5e.ugb-column {
+        margin-bottom: 0px !important
+    }
+}
+
+.ugb-910af5e>.ugb-inner-block>.ugb-block-content>* {
+    justify-content: center !important
+}
+
+
+/*Cards tratamientos*/
+/*Card ansiedad*/
+.cardAnsiedad .cardAnsiedad-card__title,
+.cardAnsiedad .cardAnsiedad-card__subtitle,
+.cardAnsiedad .cardAnsiedad-card__description,
+.cardAnsiedad .cardAnsiedad-button-container {
+    text-align: center
+}
+
+.cardAnsiedad .cardAnsiedad-card__item1 .cardAnsiedad-card__image {
+    background-image: url(../images/tratamientos/acompaniamiento.jpg)
+}
+
+.cardAnsiedad .cardAnsiedad-card__image {
+    height: 180px !important
+}
+
+.cardAnsiedad .cardAnsiedad-button {
+    background-color: var(--nv-primary-accent)
+}
+
+.cardAnsiedad .cardAnsiedad-button .cardAnsiedad-button--inner,
+.cardAnsiedad .cardAnsiedad-button svg:not(.cardAnsiedad-custom-icon) {
+    color: var(--nv-text-dark-bg) !important
+}
+
+.cardAnsiedad .cardAnsiedad-inner-block {
+    text-align: center
+}
+
+.cardAnsiedad.cardAnsiedad-card>.cardAnsiedad-inner-block {
+    max-width: 300px !important
+}
+
+@media screen and (min-width:768px) {
+    .cardAnsiedad.ugb-card {
+        margin-bottom: 0px !important
+    }
+}
