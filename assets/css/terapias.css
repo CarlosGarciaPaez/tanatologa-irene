@@ -1,0 +1,409 @@
+/*Tarjetas terapias*/
+
+/*Ansiedad*/
+
+.ugb-ansiedad .ugb-card__title,
+.ugb-ansiedad .ugb-card__subtitle,
+.ugb-ansiedad .ugb-card__description,
+.ugb-ansiedad .ugb-button-container {
+    text-align: center
+}
+
+.ugb-ansiedad .ugb-card__item1 .ugb-card__image {
+    background-image: url(../images/terapias/ansiedad.jpg)
+}
+
+.ugb-ansiedad .ugb-card__image {
+    height: 180px !important
+}
+
+.ugb-ansiedad .ugb-button {
+    background-color: var(--nv-primary-accent)
+}
+
+.ugb-ansiedad .ugb-button .ugb-button--inner,
+.ugb-ansiedad .ugb-button svg:not(.ugb-custom-icon) {
+    color: var(--nv-text-dark-bg) !important
+}
+
+.ugb-ansiedad .ugb-inner-block {
+    text-align: center
+}
+
+.ugb-ansiedad.ugb-card>.ugb-inner-block {
+    max-width: 300px !important
+}
+
+@media screen and (min-width:768px) {
+    .ugb-ansiedad.ugb-card {
+        margin-bottom: 0px !important
+    }
+}
+
+
+/*Tarjeta depresión*/
+
+.ugb-depresion .ugb-card__title,
+.ugb-depresion .ugb-card__subtitle,
+.ugb-depresion .ugb-card__description,
+.ugb-depresion .ugb-button-container {
+    text-align: center
+}
+
+.ugb-depresion .ugb-card__item1 .ugb-card__image {
+    background-image: url(../images/terapias/depresion.png)
+}
+
+.ugb-depresion .ugb-card__image {
+    height: 180px !important
+}
+
+.ugb-depresion .ugb-button {
+    background-color: var(--nv-primary-accent)
+}
+
+.ugb-depresion .ugb-button .ugb-button--inner,
+.ugb-depresion .ugb-button svg:not(.ugb-custom-icon) {
+    color: var(--nv-text-dark-bg) !important
+}
+
+.ugb-depresion .ugb-inner-block {
+    text-align: center
+}
+
+.ugb-depresion.ugb-card>.ugb-inner-block {
+    max-width: 300px !important
+}
+
+@media screen and (min-width:768px) {
+    .ugb-depresion.ugb-card {
+        margin-bottom: 0px !important
+    }
+}
+
+
+/*Tarjeta estrés*/
+
+.ugb-estres .ugb-card__title,
+.ugb-estres .ugb-card__subtitle,
+.ugb-estres .ugb-card__description,
+.ugb-estres .ugb-button-container {
+    text-align: center
+}
+
+.ugb-estres .ugb-card__item1 .ugb-card__image {
+    background-image: url(../images/terapias/estres.jpg);
+}
+
+.ugb-estres .ugb-card__image {
+    height: 180px !important
+}
+
+.ugb-estres .ugb-button {
+    background-color: var(--nv-primary-accent)
+}
+
+.ugb-estres .ugb-button .ugb-button--inner,
+.ugb-estres .ugb-button svg:not(.ugb-custom-icon) {
+    color: var(--nv-text-dark-bg) !important
+}
+
+.ugb-estres .ugb-inner-block {
+    text-align: center
+}
+
+.ugb-estres.ugb-card>.ugb-inner-block {
+    max-width: 300px !important
+}
+
+@media screen and (min-width:768px) {
+    .ugb-estres.ugb-card {
+        margin-bottom: 0px !important
+    }
+}
+
+
+/*Tarjeta ataque de pánico*/
+
+.ugb-panico .ugb-card__title,
+.ugb-panico .ugb-card__subtitle,
+.ugb-panico .ugb-card__description,
+.ugb-panico .ugb-button-container {
+    text-align: center
+}
+
+.ugb-panico .ugb-card__item1 .ugb-card__image {
+    background-image: url(../images/terapias/ataque-de-panico.png);
+}
+
+.ugb-panico .ugb-card__image {
+    height: 180px !important
+}
+
+.ugb-panico .ugb-button {
+    background-color: var(--nv-primary-accent)
+}
+
+.ugb-panico .ugb-button .ugb-button--inner,
+.ugb-panico .ugb-button svg:not(.ugb-custom-icon) {
+    color: var(--nv-text-dark-bg) !important
+}
+
+.ugb-panico .ugb-inner-block {
+    text-align: center
+}
+
+.ugb-panico.ugb-card>.ugb-inner-block {
+    max-width: 300px !important
+}
+
+@media screen and (min-width:768px) {
+    .ugb-panico.ugb-card {
+        margin-bottom: 0px !important
+    }
+}
+
+
+/*Transtorno de sueño*/
+
+.ugb-suenio .ugb-card__title,
+.ugb-suenio .ugb-card__subtitle,
+.ugb-suenio .ugb-card__description,
+.ugb-suenio .ugb-button-container {
+    text-align: center
+}
+
+.ugb-suenio .ugb-card__item1 .ugb-card__image {
+    background-image: url(../images/terapias/transtornos_de_sueño.png);
+}
+
+.ugb-suenio .ugb-card__image {
+    height: 180px !important
+}
+
+.ugb-suenio .ugb-button {
+    background-color: var(--nv-primary-accent)
+}
+
+.ugb-suenio .ugb-button .ugb-button--inner,
+.ugb-suenio .ugb-button svg:not(.ugb-custom-icon) {
+    color: var(--nv-text-dark-bg) !important
+}
+
+.ugb-suenio .ugb-inner-block {
+    text-align: center
+}
+
+.ugb-suenio.ugb-card>.ugb-inner-block {
+    max-width: 300px !important
+}
+
+@media screen and (min-width:768px) {
+    .ugb-suenio.ugb-card {
+        margin-bottom: 0px !important
+    }
+}
+
+
+/*Problemas emocionales*/
+
+.ugb-emocionales .ugb-card__title,
+.ugb-emocionales .ugb-card__subtitle,
+.ugb-emocionales .ugb-card__description,
+.ugb-emocionales .ugb-button-container {
+    text-align: center
+}
+
+.ugb-emocionales .ugb-card__item1 .ugb-card__image {
+    background-image: url(../images/terapias/problemas-emocionales.jpg);
+}
+
+.ugb-emocionales .ugb-card__image {
+    height: 180px !important
+}
+
+.ugb-emocionales .ugb-button {
+    background-color: var(--nv-primary-accent)
+}
+
+.ugb-emocionales .ugb-button .ugb-button--inner,
+.ugb-emocionales .ugb-button svg:not(.ugb-custom-icon) {
+    color: var(--nv-text-dark-bg) !important
+}
+
+.ugb-emocionales .ugb-inner-block {
+    text-align: center
+}
+
+.ugb-emocionales.ugb-card>.ugb-inner-block {
+    max-width: 300px !important
+}
+
+@media screen and (min-width:768px) {
+    .ugb-emocionales.ugb-card {
+        margin-bottom: 0px !important
+    }
+}
+
+
+/*Problemas de comportamiento*/
+
+.ugb-comportamiento .ugb-card__title,
+.ugb-comportamiento .ugb-card__subtitle,
+.ugb-comportamiento .ugb-card__description,
+.ugb-comportamiento .ugb-button-container {
+    text-align: center
+}
+
+.ugb-comportamiento .ugb-card__item1 .ugb-card__image {
+    background-image: url(../images/terapias/problemas_de_comportamiento.png);
+}
+
+.ugb-comportamiento .ugb-card__image {
+    height: 180px !important
+}
+
+.ugb-comportamiento .ugb-button {
+    background-color: var(--nv-primary-accent)
+}
+
+.ugb-comportamiento .ugb-button .ugb-button--inner,
+.ugb-comportamiento .ugb-button svg:not(.ugb-custom-icon) {
+    color: var(--nv-text-dark-bg) !important
+}
+
+.ugb-comportamiento .ugb-inner-block {
+    text-align: center
+}
+
+.ugb-comportamiento.ugb-card>.ugb-inner-block {
+    max-width: 300px !important
+}
+
+@media screen and (min-width:768px) {
+    .ugb-comportamiento.ugb-card {
+        margin-bottom: 0px !important
+    }
+}
+
+
+/*Problemas de adicciones*/
+
+.ugb-adicciones .ugb-card__title,
+.ugb-adicciones .ugb-card__subtitle,
+.ugb-adicciones .ugb-card__description,
+.ugb-adicciones .ugb-button-container {
+    text-align: center
+}
+
+.ugb-adicciones .ugb-card__item1 .ugb-card__image {
+    background-image: url(../images/terapias/adicciones.png);
+}
+
+.ugb-adicciones .ugb-card__image {
+    height: 180px !important
+}
+
+.ugb-adicciones .ugb-button {
+    background-color: var(--nv-primary-accent)
+}
+
+.ugb-adicciones .ugb-button .ugb-button--inner,
+.ugb-adicciones .ugb-button svg:not(.ugb-custom-icon) {
+    color: var(--nv-text-dark-bg) !important
+}
+
+.ugb-adicciones .ugb-inner-block {
+    text-align: center
+}
+
+.ugb-adicciones.ugb-card>.ugb-inner-block {
+    max-width: 300px !important
+}
+
+@media screen and (min-width:768px) {
+    .ugb-adicciones.ugb-card {
+        margin-bottom: 0px !important
+    }
+}
+
+
+/*Ideación suicida*/
+
+.ugb-suicidio .ugb-card__title,
+.ugb-suicidio .ugb-card__subtitle,
+.ugb-suicidio .ugb-card__description,
+.ugb-suicidio .ugb-button-container {
+    text-align: center
+}
+
+.ugb-suicidio .ugb-card__item1 .ugb-card__image {
+    background-image: url(../images/terapias/idecion_suicida.png);
+}
+
+.ugb-suicidio .ugb-card__image {
+    height: 180px !important
+}
+
+.ugb-suicidio .ugb-button {
+    background-color: var(--nv-primary-accent)
+}
+
+.ugb-suicidio .ugb-button .ugb-button--inner,
+.ugb-suicidio .ugb-button svg:not(.ugb-custom-icon) {
+    color: var(--nv-text-dark-bg) !important
+}
+
+.ugb-suicidio .ugb-inner-block {
+    text-align: center
+}
+
+.ugb-suicidio.ugb-card>.ugb-inner-block {
+    max-width: 300px !important
+}
+
+@media screen and (min-width:768px) {
+    .ugb-suicidio.ugb-card {
+        margin-bottom: 0px !important
+    }
+}
+
+/*Acompañamiento en duelos o perdidas*/
+
+.ugb-duelo .ugb-card__title,
+.ugb-duelo .ugb-card__subtitle,
+.ugb-duelo .ugb-card__description,
+.ugb-duelo .ugb-button-container {
+    text-align: center
+}
+
+.ugb-duelo .ugb-card__item1 .ugb-card__image {
+    background-image: url(../images/terapias/duelo.png);
+}
+
+.ugb-duelo .ugb-card__image {
+    height: 180px !important
+}
+
+.ugb-duelo .ugb-button {
+    background-color: var(--nv-primary-accent)
+}
+
+.ugb-duelo .ugb-button .ugb-button--inner,
+.ugb-duelo .ugb-button svg:not(.ugb-custom-icon) {
+    color: var(--nv-text-dark-bg) !important
+}
+
+.ugb-duelo .ugb-inner-block {
+    text-align: center
+}
+
+.ugb-duelo.ugb-card>.ugb-inner-block {
+    max-width: 300px !important
+}
+
+@media screen and (min-width:768px) {
+    .ugb-duelo.ugb-card {
+        margin-bottom: 0px !important
+    }
+}
