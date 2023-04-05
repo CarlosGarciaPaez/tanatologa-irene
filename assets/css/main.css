@@ -51,7 +51,7 @@
 }
 
 .ugb-91e06bc .ugb-inner-block {
-    text-align: left
+    text-align: center;
 }
 
 .ugb-91e06bc.ugb-columns {
@@ -61,7 +61,7 @@
 
 .ugb-91e06bc .ugb-block-title {
     font-size: 36px !important;
-    color: #c4ab1f
+    
 }
 
 @media screen and (min-width:768px) {
@@ -185,12 +185,12 @@ screen and (-ms-high-contrast:none) {
 .ugb-2c9af09 .ugb-icon__title {
     color: var(--nv-site-bg);
     font-size: 25px !important;
-    text-align: center;
+    text-align: center !important;
     margin-bottom: 18px !important
 }
 
 .ugb-2c9af09 .ugb-inner-block {
-    text-align: center
+    text-align: center !important
 }
 
 .ugb-2c9af09.ugb-icon {
@@ -253,7 +253,7 @@ button {
 
 html {
     box-sizing: border-box;
-    -ms-overflow-style: scrollbar
+    
 }
 
 *,

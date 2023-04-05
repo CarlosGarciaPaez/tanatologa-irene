@@ -6,7 +6,8 @@
 .ugb-ansiedad .ugb-card__subtitle,
 .ugb-ansiedad .ugb-card__description,
 .ugb-ansiedad .ugb-button-container {
-    text-align: center
+    text-align: center;
+    font-size: 1.08em;
 }
 
 .ugb-ansiedad .ugb-card__item1 .ugb-card__image {
@@ -47,7 +48,8 @@
 .ugb-depresion .ugb-card__subtitle,
 .ugb-depresion .ugb-card__description,
 .ugb-depresion .ugb-button-container {
-    text-align: center
+    text-align: center;
+    font-size: 1.08em;
 }
 
 .ugb-depresion .ugb-card__item1 .ugb-card__image {
@@ -88,7 +90,8 @@
 .ugb-estres .ugb-card__subtitle,
 .ugb-estres .ugb-card__description,
 .ugb-estres .ugb-button-container {
-    text-align: center
+    text-align: center;
+    font-size: 1.08em;
 }
 
 .ugb-estres .ugb-card__item1 .ugb-card__image {
@@ -129,7 +132,8 @@
 .ugb-panico .ugb-card__subtitle,
 .ugb-panico .ugb-card__description,
 .ugb-panico .ugb-button-container {
-    text-align: center
+    text-align: center;
+    font-size: 1.08em;
 }
 
 .ugb-panico .ugb-card__item1 .ugb-card__image {
@@ -170,7 +174,8 @@
 .ugb-suenio .ugb-card__subtitle,
 .ugb-suenio .ugb-card__description,
 .ugb-suenio .ugb-button-container {
-    text-align: center
+    text-align: center;
+    font-size: 1.08em;
 }
 
 .ugb-suenio .ugb-card__item1 .ugb-card__image {
@@ -211,7 +216,8 @@
 .ugb-emocionales .ugb-card__subtitle,
 .ugb-emocionales .ugb-card__description,
 .ugb-emocionales .ugb-button-container {
-    text-align: center
+    text-align: center;
+    font-size: 1.08em;
 }
 
 .ugb-emocionales .ugb-card__item1 .ugb-card__image {
@@ -252,7 +258,8 @@
 .ugb-comportamiento .ugb-card__subtitle,
 .ugb-comportamiento .ugb-card__description,
 .ugb-comportamiento .ugb-button-container {
-    text-align: center
+    text-align: center;
+    font-size: 1.08em;
 }
 
 .ugb-comportamiento .ugb-card__item1 .ugb-card__image {
@@ -293,7 +300,8 @@
 .ugb-adicciones .ugb-card__subtitle,
 .ugb-adicciones .ugb-card__description,
 .ugb-adicciones .ugb-button-container {
-    text-align: center
+    text-align: center;
+    font-size: 1.08em;
 }
 
 .ugb-adicciones .ugb-card__item1 .ugb-card__image {
@@ -334,7 +342,8 @@
 .ugb-suicidio .ugb-card__subtitle,
 .ugb-suicidio .ugb-card__description,
 .ugb-suicidio .ugb-button-container {
-    text-align: center
+    text-align: center;
+    font-size: 1.08em;
 }
 
 .ugb-suicidio .ugb-card__item1 .ugb-card__image {
@@ -374,7 +383,8 @@
 .ugb-duelo .ugb-card__subtitle,
 .ugb-duelo .ugb-card__description,
 .ugb-duelo .ugb-button-container {
-    text-align: center
+    text-align: center;
+    font-size: 1.08em;
 }
 
 .ugb-duelo .ugb-card__item1 .ugb-card__image {
