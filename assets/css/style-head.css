@@ -219,11 +219,11 @@ form.search-form input:read-write {
 }
 
 .builder-item--logo .site-logo img {
-    max-width: 120px;
+    max-width: 145px;
 }
 
 .builder-item--logo .site-logo {
-    padding: 10px 0px 10px 0px;
+    padding: 0px 0px 0px 0px;
 }
 
 .builder-item--logo {
