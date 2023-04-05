@@ -217,7 +217,7 @@ form.search-form input:read-write {
 .header-menu-sidebar {
     width: 350px;
 }
-
+/*Tamaño del logo en diseño responsivo*/
 .builder-item--logo .site-logo img {
     max-width: 145px;
 }
