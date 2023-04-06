@@ -225,9 +225,9 @@ form.search-form input:read-write {
 .builder-item--logo .site-logo {
     padding: 0px 0px 0px 0px;
 }
-
+/*tamaño del contenedor del logo*/
 .builder-item--logo {
-    margin: 0px 0px 0px 0px;
+    margin: -10px 0px -20px 0px;
 }
 
 .builder-item--nav-icon .navbar-toggle,
@@ -507,17 +507,17 @@ form.search-form input:read-write {
     .header-menu-sidebar {
         width: 350px;
     }
-
+    /*Tamaño del logo*/
     .builder-item--logo .site-logo img {
-        max-width: 120px;
+        max-width: 130px;
     }
 
     .builder-item--logo .site-logo {
-        padding: 10px 0px 10px 0px;
+        padding: 0px 0px 0px 0px;
     }
-
+    /*Logo dentro del contenedor*/
     .builder-item--logo {
-        margin: 0px 0px 0px 0px;
+        margin: -10px 0px -10px 0px;
     }
 
     .builder-item--nav-icon .navbar-toggle {
