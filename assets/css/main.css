@@ -7,7 +7,7 @@
 :root {
     /*Verificar en donde se está ocupando*/
     --content-width: 1200px;
-    --textColorAboveImage: #CECDCD;
+    --textColorAboveImage: #161313;
 }
 
 .contenedor-imagen {
