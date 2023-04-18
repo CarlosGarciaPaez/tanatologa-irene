@@ -5,16 +5,21 @@
     --wp-admin-theme-color-darker-20: #875100;
 }*/
 :root {
-    /*Verificar en donde se está ocupando*/
+    /*contenedor de la imagen de la mariposa*/
     --content-width: 1200px;
-    --textColorAboveImage: #161313;
+    --textColorAboveImage: #9A8DC3;
 }
 
+.ancho {
+    margin-top: 50px;
+    margin-bottom: 90px;
+}
 .contenedor-imagen {
     position: relative;
-    display: inline-block;
+    display:contents;
+    /*top: 0px; right: 0px;*/
   }
-  
+  /*Imagen de la mariposa*/
   .imagen {
     display: block;
     max-width: 100%;
@@ -26,10 +31,12 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: var(--textColorAboveImage);
+    color: #271b4a;
     font-size: 30px;
-    text-align: center;
-    width: 100%;
+    text-align: justify;
+    width: 110%;
+    /*text-shadow: 1 0 10px   var(--textColorAbove);*/
+    /*text-shadow: 1px 0 10px var(--textColorAbove);*/
   }
   
 
@@ -101,6 +108,7 @@ screen and (-ms-high-contrast:none) {
 /*Fondo azul donde esta la imagen principal de la tanatóloga*/
 .ugb-0686d99.ugb-container {
     background-color: #f1f8f9;
+    /*height: 700px;*/
 }
 
 .ugb-0686d99 {
@@ -115,7 +123,42 @@ screen and (-ms-high-contrast:none) {
     .ugb-0686d99.ugb-container {
         margin-bottom: 0px !important
     }
+    .texto {        
+        font-size: 40px;
+      }
+    .ugb-0686d99.ugb-container {
+        height: 700px;
+    }
 }
+@media screen and (max-width:810px) {
+    .ugb-0686d99.ugb-container {
+        margin-bottom: 0px !important
+    }
+    .imagen {
+        display: block;
+        max-width: 100%;
+        height: auto;
+    }
+    .texto {        
+        position: absolute;  /* relative sin la imagen de fondo*/
+        top: 45%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        /*margin-top: 0px;*/
+        color: var(--textColorAboveImage);
+        font-size: 30px;
+        text-align: center;
+        width: 100%;
+    }
+    .ancho {
+        margin-top: 50px;
+        margin-bottom: 140px;
+    }
+    .ugb-container.ugb-container--v2 .ugb-container__content-wrapper>:first-child {
+        margin-top: 10px !important;  /*Permítete sanar*/
+    }
+}
+
 /*Fondo azul donde esta la imagen principal de la tanatóloga*/
 
 
@@ -201,8 +244,14 @@ screen and (-ms-high-contrast:none) {
     background-color: #233e39
 }
 
-.ugb-2c9af09 .ugb-block-title {
+.ugb-2c9af09 .ugb-block-title{
     font-size: 28px !important;
+    color: #ffffff
+}
+.ugb-2c9af09 a{
+    color: #ffffff
+}
+.ugb-2c9af09 a:hover{
     color: #ffffff
 }
 

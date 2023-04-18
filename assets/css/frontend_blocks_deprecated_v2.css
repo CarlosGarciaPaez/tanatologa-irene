@@ -664,11 +664,12 @@
 }
 
 .ugb-container.ugb-container--v2 .ugb-container__content-wrapper>:first-child {
-    margin-top: 0
+    margin-top: 50px;  /*Permítete sanar*/
 }
 
 .ugb-container.ugb-container--v2 .ugb-container__content-wrapper>:last-child {
-    margin-bottom: 0
+    margin-bottom: 0;
+    /*margin-right: -2%;*/ /*mover todo el contenido de soy tanatologa irene*/
 }
 
 .ugb-container.ugb-container--v2 .ugb--has-block-background,
