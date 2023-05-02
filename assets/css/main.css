@@ -7,7 +7,7 @@
 :root {
     /*contenedor de la imagen de la mariposa*/
     --content-width: 1200px;
-    --textColorAboveImage: #9A8DC3;
+    --textColorAboveImage: #271b4a;
 }
 
 .ancho {
@@ -31,7 +31,6 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: #271b4a;
     font-size: 30px;
     text-align: justify;
     width: 110%;
